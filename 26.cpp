@@ -1,4 +1,4 @@
-//Wap prong to use bubble short alsorithm and sort array elements 
+//Wap program  to use bubble sort algorithm and sorted array elements 
 #include<iostream>
 using namespace std;
 
