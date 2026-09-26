@@ -1,4 +1,4 @@
-//wap proram to print multiplacation of two value using function
+//wap program to print multiplacation of two value using function
 #include<iostream>
 using namespace std;
 int main()
