@@ -15,7 +15,7 @@ int maxNum(int a , int b ,int c){
 int main()
 {
     int x,y,z;
-    cout<<"Entre numbers = ";
+    cout<<"Enter numbers = ";
     cin>>x>>y>>z;
     int res = maxNum(x,y,z);
     cout<<"maximum number = "<<res<<endl;
