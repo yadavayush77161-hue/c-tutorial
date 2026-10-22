@@ -1,4 +1,4 @@
-//Array
+//Array insertion
 #include<iostream>
 using namespace std;
 int main()
